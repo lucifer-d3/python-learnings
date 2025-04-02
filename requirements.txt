@@ -1,0 +1,10 @@
+pandas
+numpy
+transformers
+torch
+streamlit
+shap
+nltk
+spacy==3.5.0
+scikit-learn
+aif360
